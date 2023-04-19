@@ -36,6 +36,12 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilankz" alt="dilankz" /></a> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilankz&label=Profile%20views&color=0e75b6&style=flat" alt="dilankz" /> </p>
+
+
 ###
 
 <br clear="both">
